@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Petroa from Ukraine.
 - 👀 I’m interested in programming and 3d graphics.
-- 🌱 I’m currently learning python for using in simple animation and VFX tasks like expresiions. If i understand it very good i will try something more complicate.
-- 💞️ I’m looking to collaborate on something like studiyng python or making cartoons or likewise.
+- 🌱 I wanna make animation and VFX.
+- 💞️ I’m looking to collaborate with like minded guys for making cartoons or likewise.
 - 📫 How to reach me: write here or mail (sds5770@gmail.com) or both ^-^.
 
 <!---
